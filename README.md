@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Juan Vieira
-- 👀 I’m interested in Data Analysis, Business Intelligence and Data Science.
-- 🌱 I’m currently learning SQL and Python.
-- 💞️ I’m looking to collaborate on projects of Data Analysis and Business Intelligence.
+- 👀 I’m interested in Data Analysis and Data Science.
+- 🌱 Python & SQL.
 - ⚡ Fun fact: I'm a Star Trek fan
 - I was a Trader on a trading desk (more specifically, derivatives trading).
 
