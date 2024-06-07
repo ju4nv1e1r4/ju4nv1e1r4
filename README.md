@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan Vieira.
-- 👀 I’m interested in Data Analysis and Data Science.
+- 👀 I’m interested in Data Science & AI.
 - 🌱 Python & SQL.
 - 🤖 Studying Machine Learning and Deep Learning
 - ⚡ Fun fact: I'm a Star Trek fan.
