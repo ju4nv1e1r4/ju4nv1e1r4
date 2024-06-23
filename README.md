@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-I am a Data Scientist with a background in financial markets, transitioning into the field of data science and artificial intelligence. With a passion for technology and a drive to leverage data to solve complex problems, I am constantly learning and applying new skills in data analysis and automation.
+I'm an aspiring data scientist with a background in financial markets, transitioning into the field of data science and artificial intelligence. With a passion for technology and a drive to leverage data to solve complex problems, I am constantly learning and applying new skills in data analysis and automation.
 
 ---
 
