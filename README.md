@@ -16,7 +16,7 @@ I'm an aspiring data scientist with a background in financial markets, transitio
 
 - **Programming Languages:** Python, SQL
 - **Data Manipulation:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn
+- **Machine Learning:** Scikit-learn, XGBoost, Light GBM
 - **Data Visualization:** Matplotlib, Seaborn, Power BI, Plotly
 - **Automation and Web Scraping:** Selenium
 - **Big Data:** PySpark
