@@ -56,7 +56,7 @@ I have worked on several projects that demonstrate my skills in data science and
 
 Here are some of my featured repositories:
 
-- [Heart Disease Prediction](https://github.com/ju4nv1e1r4/Heart_Failure-Prediction)
+- [Manufacturing Defects](https://github.com/ju4nv1e1r4/Manufacturing_Defects)
 - [Lung Cancer Prediction](https://github.com/ju4nv1e1r4/lung_cancer_prediction)
 - [OpenAI API Projects](https://github.com/ju4nv1e1r4/prompt_eng_AI)
 
