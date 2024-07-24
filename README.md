@@ -15,13 +15,14 @@ I'm an aspiring data scientist with a background in financial markets, transitio
 ## 🛠 Hard Skills
 
 - **Programming Languages:** Python, SQL
+- **Web Development:** Streamlit
 - **Data Manipulation:** Pandas, NumPy
 - **Machine Learning:** Scikit-learn, XGBoost, LightGBM
 - **Data Visualization:** Matplotlib, Seaborn, Power BI, Plotly
 - **Automation and Web Scraping:** Selenium, Beautiful Soup
 - **Big Data:** PySpark
 - **Cloud Platforms:** AWS, GCP
-- **API Interaction:** OpenAI API
+- **API Interaction:** OpenAI API, API REST
 - **ETL Processes:** Extract, Transform, Load
 - **Processes and Methods:** CRISP-DM, Kanban
 
