@@ -18,11 +18,12 @@ I'm an aspiring data scientist with a background in financial markets, transitio
 - **Web Development:** Streamlit
 - **Data Manipulation:** Pandas, NumPy
 - **Machine Learning:** Scikit-learn, XGBoost, LightGBM
-- **Data Visualization:** Matplotlib, Seaborn, Power BI, Plotly
+- **AI:** NLP, Langchain 
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Looker
 - **Automation and Web Scraping:** Selenium, Beautiful Soup
 - **Big Data:** PySpark
-- **Cloud Platforms:** AWS, GCP
-- **API Interaction:** OpenAI API, API REST
+- **Cloud Platforms:** AWS, GCP, OCI
+- **API Interaction:** API REST request
 - **ETL Processes:** Extract, Transform, Load
 - **Processes and Methods:** CRISP-DM, Kanban
 
