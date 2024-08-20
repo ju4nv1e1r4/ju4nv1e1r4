@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-I'm an aspiring data scientist with a background in financial markets, transitioning into the field of data science and artificial intelligence. With a passion for technology and a drive to leverage data to solve complex problems, I am constantly learning and applying new skills in data analysis and automation.
+I'm a Data Scientist with a background in financial markets, actually working on Digital Marketing. With a passion for technology and a drive to leverage data to solve complex problems, I am constantly learning and applying new skills in data analysis, data science, AI solutions and automation.
 
 ---
 
@@ -49,8 +49,7 @@ I have worked on several projects that demonstrate my skills in data science and
 
 - **Heart Disease Prediction:** Developed a predictive model to assess the risk of heart diseases using various machine learning techniques.
 - **Lung Cancer Prediction:** Built a classification model to predict lung cancer incidences using patient data.
-- **OpenAI API Connection:** Created applications that interact with the OpenAI API to explore the capabilities of GPT models.
-- **Coffee Shop Data Analysis:** Conducted an in-depth data analysis and visualization project for a coffee shop chain, focusing on business insights and data-driven decisions.
+- **Pokerbot:** Chatbot whose main objective is to teach poker to beginners. Developed with GPT 3.5 Turbo.
 
 ---
 
