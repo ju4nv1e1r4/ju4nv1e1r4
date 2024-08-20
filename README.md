@@ -2,7 +2,7 @@
 
 👀 **Interests:** Data Science, AI, Machine Learning, Deep Learning  
 🌱 **Languages:** Python, SQL  
-⚡ **Fun fact:** I'm a Star Trek fan.
+⚡ **Fun fact:** I'm a Star Wars fan.
 
 ---
 
