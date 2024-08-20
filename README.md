@@ -25,7 +25,7 @@ I'm an aspiring data scientist with a background in financial markets, transitio
 - **Cloud Platforms:** AWS, GCP, OCI
 - **API Interaction:** API REST request
 - **ETL Processes:** Extract, Transform, Load
-- **Processes and Methods:** CRISP-DM, Kanban
+- **Processes and Methods:** CRISP-DM, Kanban, Dataops
 
 ---
 
