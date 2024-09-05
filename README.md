@@ -96,6 +96,14 @@ Here are some of my featured repositories:
 
 ---
 
+## ⚡ Activity
+
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ju4nv1e1r4&theme=blue-green)](https://github.com/ju4nv1e1r4/github-readme-stats)
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ju4nv1e1r4&theme=blue-green)](https://github.com/ju4nv1e1r4/github-readme-stats)
+
+
+
 ## 📫 Get in Touch
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/juanvieira85/) or via email at juanvieira1@yahoo.com. I'm always open to discussing new projects, collaborations, or opportunities in data science and AI.
