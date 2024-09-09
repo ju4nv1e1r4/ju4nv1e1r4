@@ -106,7 +106,7 @@ Here are some of my featured repositories:
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/juanvieira85/) or via email at juanvieira1@yahoo.com. I'm always open to discussing new projects, collaborations, or opportunities in data science and AI.
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/juanvieira85/) or via email at juanvieira1@yahoo.com. I'm always open to discussing new projects, collaborations, or opportunities in data science, MLOps and AI.
 
 ---
 
