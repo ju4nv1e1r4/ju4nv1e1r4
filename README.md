@@ -90,7 +90,7 @@ I have worked on several projects that demonstrate my skills in data science and
 Here are some of my featured repositories:
 
 - [Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024)
-- [Good Practices of MLOPs on Google Cloud Platform](https://github.com/ju4nv1e1r4/pokerbot)
+- [Good Practices of MLOPs on Google Cloud Platform]([https://github.com/ju4nv1e1r4/pokerbot](https://github.com/ju4nv1e1r4/mlops_gcp))
 - [Predicting Machine Defects](https://github.com/ju4nv1e1r4/Manufacturing_Defects)
 
 ---
