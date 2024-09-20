@@ -82,6 +82,7 @@ I have worked on several projects that demonstrate my skills in data science and
 - **Life Cycle Management of Machine Learning Models with MLflow:** demonstration of the use of MLflow as a tool in Machine Learning projects
 - **Good Practices of MLOPs on Google Cloud Platform:** Project that demonstrates some good Machine Learning Operations practices in a cloud architecture, using Google Cloud Platform.
 - **Predicting Machine Defects:** The main aim of this project is to predict machine faults in order to reduce downtime, improve operational efficiency and cut maintenance and production costs. To do this, I have developed a machine learning model that predicts in which situations machines are likely to malfunction.
+- **Lung Cancer Predict:** This project is about developing a Machine Learning model that uses a classifier algorithm to predict lung cancer. I used MLflow to manage the model's lifecycle, and I also used the concept of continuous delivery, where we'll use CD4ML and MLOps practices to be able to modify parameters and other technical specifications without having to change the code and put a model into production.
 
 ---
 
@@ -92,6 +93,7 @@ Here are some of my featured repositories:
 - [Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024)
 - [Good Practices of MLOPs on Google Cloud Platform](https://github.com/ju4nv1e1r4/mlops_gcp)
 - [Predicting Machine Defects](https://github.com/ju4nv1e1r4/Manufacturing_Defects)
+- [Lung Cancer Predict](https://github.com/ju4nv1e1r4/lung-cancer-predict)
 
 ---
 
