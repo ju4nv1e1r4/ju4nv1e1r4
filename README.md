@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-I'm a Data Scientist with a background in financial markets, actually working on Digital Marketing. With a passion for technology and a drive to leverage data to solve complex problems, I am constantly learning and applying new skills in data analysis, data science, AI solutions and automation.
+I'm a data scientist and MLOps enthusiast, currently working in data science at a digital marketing company. Passionate about technology and motivated to use data to solve business problems, I am constantly learning and applying new skills in data science and MLOps solutions.
 
 ---
 
@@ -77,9 +77,9 @@ I'm a Data Scientist with a background in financial markets, actually working on
 
 ## 📊 Experience in Data Science & MLOPs
 
-I have worked on several projects that demonstrate my skills in data science and AI:
-
-- **Life Cycle Management of Machine Learning Models with MLflow:** demonstration of the use of MLflow as a tool in Machine Learning projects
+I have worked on several projects that demonstrate my skills in data science and MLOps:
+- **Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps**: This project aims to develop a predictive system to assist in credit assessment. Using Machine Learning algorithms, with the aim of building a classification model to determine whether or not to approve credit for specific customers. This project can help make faster and more assertive decisions, reducing the risk of default and optimizing credit allocation.
+- **Life Cycle Management of Machine Learning Models with MLflow:** Demonstration of the use of MLflow as a tool in Machine Learning projects, and deployment with kubernetes.
 - **Good Practices of MLOPs on Google Cloud Platform:** Project that demonstrates some good Machine Learning Operations practices in a cloud architecture, using Google Cloud Platform.
 - **Predicting Machine Defects:** The main aim of this project is to predict machine faults in order to reduce downtime, improve operational efficiency and cut maintenance and production costs. To do this, I have developed a machine learning model that predicts in which situations machines are likely to malfunction.
 - **Lung Cancer Predict:** This project is about developing a Machine Learning model that uses a classifier algorithm to predict lung cancer. I used MLflow to manage the model's lifecycle, and I also used the concept of continuous delivery, where we'll use CD4ML and MLOps practices to be able to modify parameters and other technical specifications without having to change the code and put a model into production.
@@ -90,6 +90,7 @@ I have worked on several projects that demonstrate my skills in data science and
 
 Here are some of my featured repositories:
 
+- [Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps](https://github.com/ju4nv1e1r4/credit-approval)
 - [Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024)
 - [Good Practices of MLOPs on Google Cloud Platform](https://github.com/ju4nv1e1r4/mlops_gcp)
 - [Predicting Machine Defects](https://github.com/ju4nv1e1r4/Manufacturing_Defects)
@@ -107,7 +108,7 @@ Here are some of my featured repositories:
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/juanvieira85/) or via email at juanvieira1@yahoo.com. I'm always open to discussing new projects, collaborations, or opportunities in data science, MLOps and AI.
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/juanvieira85/) or via email at juanvieira1@yahoo.com. I'm always open to discussing new projects, collaborations, or opportunities in data science and MLOps.
 
 ---
 
