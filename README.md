@@ -92,7 +92,7 @@ Here are some of my featured repositories:
 - [Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps](https://github.com/ju4nv1e1r4/credit-approval)
 - [Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024)
 - [Predicting Machine Defects](https://github.com/ju4nv1e1r4/Manufacturing_Defects)
-- [Lung Cancer Predict](https://github.com/ju4nv1e1r4/lung-cancer-predict)
+- [Lung Cancer Predict](https://github.com/ju4nv1e1r4/lung_cancer_predict)
 
 ---
 
