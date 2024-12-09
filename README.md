@@ -80,7 +80,6 @@ I'm a data scientist and MLOps enthusiast, currently working in data science at 
 I have worked on several projects that demonstrate my skills in data science and MLOps:
 - **Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps**: This project aims to develop a predictive system to assist in credit assessment. Using Machine Learning algorithms, with the aim of building a classification model to determine whether or not to approve credit for specific customers. This project can help make faster and more assertive decisions, reducing the risk of default and optimizing credit allocation.
 - **Life Cycle Management of Machine Learning Models with MLflow:** Demonstration of the use of MLflow as a tool in Machine Learning projects, and deployment with kubernetes.
-- **Predicting Machine Defects:** The main aim of this project is to predict machine faults in order to reduce downtime, improve operational efficiency and cut maintenance and production costs. To do this, I have developed a machine learning model that predicts in which situations machines are likely to malfunction.
 - **Lung Cancer Predict:** This project is about developing a Machine Learning model that uses a classifier algorithm to predict lung cancer. I used MLflow to manage the model's lifecycle, and I also used the concept of continuous delivery, where we'll use CD4ML and MLOps practices to be able to modify parameters and other technical specifications without having to change the code and put a model into production.
 
 ---
@@ -91,7 +90,6 @@ Here are some of my featured repositories:
 
 - [Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps](https://github.com/ju4nv1e1r4/credit-approval)
 - [Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024)
-- [Predicting Machine Defects](https://github.com/ju4nv1e1r4/Manufacturing_Defects)
 - [Lung Cancer Predict](https://github.com/ju4nv1e1r4/lung_cancer_predict)
 
 ---
