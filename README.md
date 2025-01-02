@@ -1,3 +1,7 @@
+<img src="https://github.com/user-attachments/assets/1de8f486-8417-4593-aa7d-c90b9e2601ca" width="100" height="100" />
+
+---
+
 # 👋 Hi, I'm Juan Vieira
 
 👀 **Interests:** Data Science, AI, Machine Learning, Deep Learning  
@@ -67,10 +71,7 @@ I'm a data scientist and MLOps enthusiast, currently working in data science at 
 - **OS:**
 
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  
-![skill_badge_explorer_digital_sticker](https://github.com/user-attachments/assets/1de8f486-8417-4593-aa7d-c90b9e2601ca)
 
-img[alt=https://github.com/user-attachments/assets/1de8f486-8417-4593-aa7d-c90b9e2601ca] { width: 200px; }
 
 ---
 
