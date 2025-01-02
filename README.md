@@ -2,6 +2,7 @@
 
 👀 **Interests:** Data Science, AI, Machine Learning, Deep Learning  
 🌱 **Languages:** Python, SQL, YAML
+
 ⚡ **Fun fact:** I'm a Star Wars fan.
 
 
