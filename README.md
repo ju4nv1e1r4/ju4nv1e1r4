@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Juan Vieira
 
 👀 **Interests:** Data Science, AI, Machine Learning, Deep Learning  
-🌱 **Languages:** Python, SQL, YAML
-⚡ **Fun fact:** I'm a Star Wars fan.
-
+🌱 **Languages:** Python, SQL, YAML   
+⚡ **Fun fact:** I'm a Star Wars fan.   
 
 ---
 
