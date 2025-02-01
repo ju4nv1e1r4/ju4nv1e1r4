@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Juan Vieira
 
 👀 **Interests:** Data Science, AI, Machine Learning, Deep Learning  
-🌱 **Languages:** Python, SQL, YAML   
+🌱 **Languages:** Python, SQL, Go  
 ⚡ **Fun fact:** I'm a Star Wars fan.   
 
 ---
@@ -20,7 +20,7 @@ I'm a data scientist and MLOps enthusiast, currently working in data science at 
 
 - **Programming Languages:**
 
-   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
   
 - **Databases:**
 
