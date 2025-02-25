@@ -92,9 +92,9 @@ I'm a data scientist and MLOps enthusiast, currently working in data science at 
 ## 📊 Experience in Data Science & MLOPs
 
 I have worked on several projects that demonstrate my skills in data science and MLOps:
-- **Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps**: This project aims to develop a predictive system to assist in credit assessment. Using Machine Learning algorithms, with the aim of building a classification model to determine whether or not to approve credit for specific customers. This project can help make faster and more assertive decisions, reducing the risk of default and optimizing credit allocation.
-- **Life Cycle Management of Machine Learning Models with MLflow:** Demonstration of the use of MLflow as a tool in Machine Learning projects, and deployment with kubernetes.
-- **Lung Cancer Predict:** This project is about developing a Machine Learning model that uses a classifier algorithm to predict lung cancer. I used MLflow to manage the model's lifecycle, and I also used the concept of continuous delivery, where we'll use CD4ML and MLOps practices to be able to modify parameters and other technical specifications without having to change the code and put a model into production.
+- **[Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps](https://github.com/ju4nv1e1r4/credit-approval):** This project aims to develop a predictive system to assist in credit assessment. Using Machine Learning algorithms, with the aim of building a classification model to determine whether or not to approve credit for specific customers. This project can help make faster and more assertive decisions, reducing the risk of default and optimizing credit allocation.
+- **[Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024):** Demonstration of the use of MLflow as a tool in Machine Learning projects, and deployment with kubernetes.
+- **[Latency Improvements in ML Model Inference](https://github.com/ju4nv1e1r4/inference-speed-test):** This repository is about model serving experiments in different languages. Think of Python as the industry, it manufactures the model, but it doesn't serve it so well in APIs, software and systems. The challenge here is to find the best implementation to serve Machine Learning models, aiming to reduce latency.
 
 ---
 
@@ -104,7 +104,7 @@ Here are some of my featured repositories:
 
 - [Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps](https://github.com/ju4nv1e1r4/credit-approval)
 - [Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024)
-- [Lung Cancer Predict](https://github.com/ju4nv1e1r4/lung_cancer_predict)
+- [Latency Improvements in ML Model Inference](https://github.com/ju4nv1e1r4/inference-speed-test)
 
 ---
 
