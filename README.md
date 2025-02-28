@@ -1,7 +1,3 @@
-<img src="https://github.com/user-attachments/assets/1de8f486-8417-4593-aa7d-c90b9e2601ca" width="100" height="100" />
-
----
-
 # 👋 Hi, I'm Juan Vieira
 
 👀 **Interests:** Data & AI/Machine Learning, MLOps, Deep Learning, Software Engineering.
@@ -111,11 +107,15 @@ Here are some of my featured repositories:
 ---
 
 ## ⚡ Activity
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju4nv1e1r4)](https://github.com/ju4nv1e1r4/github-readme-stats)
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ju4nv1e1r4&theme=blue-green)](https://github.com/ju4nv1e1r4/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju4nv1e1r4&layout=compact)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ju4nv1e1r4&theme=blue-green)](https://github.com/ju4nv1e1r4/github-readme-stats)
+---
 
+<img src="https://github.com/user-attachments/assets/1de8f486-8417-4593-aa7d-c90b9e2601ca" width="100" height="100" />
+
+---
 
 
 ## 📫 Get in Touch
