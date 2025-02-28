@@ -5,7 +5,9 @@
 # 👋 Hi, I'm Juan Vieira
 
 👀 **Interests:** Data & AI/Machine Learning, MLOps, Deep Learning, Software Engineering.
+
 🌱 **Languages:** Python, SQL, Go.
+
 ⚡ **Fun fact:** I'm a Star Wars fan.
 
 ---
