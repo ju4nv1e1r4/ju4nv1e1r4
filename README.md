@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-I'm a AI/ML Engineer and MLOps enthusiast, currently working in data science at a digital marketing company. Passionate about technology and motivated to use data to solve business problems, I am constantly learning and applying new skills in data science and MLOps solutions.
+I'm a AI/ML Engineer and MLOps enthusiast, currently working as a AI Engineer at a software engineering company. Passionate about technology and motivated to use data to solve business problems, I am constantly learning and applying new skills in data science and MLOps solutions.
 
 ---
 
