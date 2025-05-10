@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Juan Vieira
 
-👀 **Interests:** Data & AI/Machine Learning, MLOps, Deep Learning, Software Engineering.
+👀 **Interests:** AI/ML Engineering, MLOps, Deep Learning, Software Engineering.
 
 🌱 **Languages:** Python, SQL, Go.
 
