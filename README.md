@@ -87,23 +87,31 @@ I'm a AI/ML Engineer and MLOps enthusiast, currently working as a AI Engineer at
 
 ---
 
-## 📊 Experience in Data Science & MLOPs
+## 📊 Experience in AI/ML Engineering & MLOPs
 
 I have worked on several projects that demonstrate my skills in data science and MLOps:
-- **[Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps](https://github.com/ju4nv1e1r4/credit-approval):** This project aims to develop a predictive system to assist in credit assessment. Using Machine Learning algorithms, with the aim of building a classification model to determine whether or not to approve credit for specific customers. This project can help make faster and more assertive decisions, reducing the risk of default and optimizing credit allocation.
-- **[Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024):** Demonstration of the use of MLflow as a tool in Machine Learning projects, and deployment with kubernetes.
+- **[Detection of suspicious activities in systems](https://github.com/ju4nv1e1r4/ml-cidds):** The goal here was to train an ML model to detect suspicious activity on networks. To do this, we will use the CIDDS dataset. 
+
+**Final product**
+
+* A supervised model saved with versioning.
+* A non-supervised model saved with versioning.
+* Logs and metrics recorded.
+* Performance aligned with objectives.
+* A "conservative" supervised model, ready to alert even the slightest suspicion of an attack.
+* An unsupervised model that detects attacks well and with great accuracy.
+* Both models in production
+* New data saved in the (will be used for retraining) bucket
+* Messaging System with Google Cloud Pub/Sub
+
+- **[Labeling with NLP Model](https://github.com/ju4nv1e1r4/labeling_with_nlp):** This NLP model was developed by fine-tuning DistilBERT to label genres in large databases.
+ 
 - **[Latency Improvements in ML Model Inference](https://github.com/ju4nv1e1r4/inference-speed-test):** This repository is about model serving experiments in different languages. Think of Python as the industry, it manufactures the model, but it doesn't serve it so well in APIs, software and systems. The challenge here is to find the best implementation to serve Machine Learning models, aiming to reduce latency.
-
----
-
-## 📂 Repositories
-
-Here are some of my featured repositories:
-
-- [Credit Approval with Classification Algorithm: Best Practices in Data Science & MLOps](https://github.com/ju4nv1e1r4/credit-approval)
-- [Life Cycle Management of Machine Learning Models with MLflow](https://github.com/ju4nv1e1r4/mlflow-2024)
-- [Latency Improvements in ML Model Inference](https://github.com/ju4nv1e1r4/inference-speed-test)
-
+  
+- **[Development Tutor Agent - Developed With ADK](https://github.com/ju4nv1e1r4/agents-with-adk):** The Development Tutor Agent is an AI-based virtual assistant designed to help developers solve technical problems and provide assistance on programming topics. The agent is composed of specialized subagents, such as the Researcher, which performs web searches to ensure that the information provided is always up to date. This project was developed with Google ADK (Agent Development Kit).
+  
+- **[Review your studies with LearnLM](https://github.com/ju4nv1e1r4/learnLMwithRAG):** This project implements a conversational chatbot capable of interacting with the content of PDF files uploaded by the user. Using Google's experimental LearnLM model in conjunction with the Retrieval Augmented Generation (RAG) technique and a Vector Store, the chatbot not only answers questions about the document, but has also been adjusted to challenge the user with pertinent questions, promoting technical deepening and guiding the user until they reach their own conclusions.
+*The workflow is simple:* the user uploads a PDF file through the web interface, the PDF content is processed and stored in a vector index, and then the user can start a conversation with the chatbot about the uploaded material. It also has a sidebar for easily parameterizing LearnLM.
 ---
 
 ## ⚡ Activity
