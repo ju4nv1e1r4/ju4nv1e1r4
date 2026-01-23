@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-I'm a AI/ML Engineer specialized in MLOps/LLMOps, currently working as a AI/ML Engineer. Passionate about technology and motivated to use data and AI/ML to solve business problems, I am constantly learning and applying new skills in data science and MLOps/LLMOps solutions.
+I'm a AI/ML Engineer specialized in MLOps/LLMOps. Passionate about technology and motivated to use data and AI/ML to solve business problems, I am constantly learning and applying new skills in data science and MLOps/LLMOps solutions.
 
 ---
 
