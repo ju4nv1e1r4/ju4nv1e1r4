@@ -4,7 +4,7 @@
 
 **Languages:** Python, SQL, Go,  Rust.
 
-**Fun fact:** I'm a Star Trek fan, yes, a trekkie.
+**Fun fact:** I'm a trekkie.
 
 ---
 
