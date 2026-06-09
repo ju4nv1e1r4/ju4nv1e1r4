@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-I'm a AI/ML Engineer specialized in MLOps/LLMOps. Passionate about technology and motivated to use data and AI/ML to solve business problems, I am constantly learning and applying new skills in data science and MLOps/LLMOps solutions.
+I am a AI/ML Engineer, MLOps Practitioner focused on developing inference architectures, agent orchestration, and scalable infrastructure for AI. With a solid foundation in data science, my core work lives in engineering: bridging the gap between experimentation and production environments. I prioritize performance, reliability, and pragmatic solutions using Python, Go, and Rust.
 
 ---
 
